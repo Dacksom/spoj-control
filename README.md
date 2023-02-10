@@ -6,7 +6,7 @@ Problemas: https://www.spoj.com/problems/basics/
 
 - [ ] [FUSC - Obfuscated Property](https://www.spoj.com/problems/FUSC/)
 - [x] [BACTERIA - SPOJ Custom Test](https://www.spoj.com/problems/BACTERIA/)
-- [ ] [EXPECT - Life, the Universe, and Everything (Interactive)](https://www.spoj.com/problems/EXPECT/)
+- [x] [EXPECT - Life, the Universe, and Everything (Interactive)](https://www.spoj.com/problems/EXPECT/)
 
 ## Jonathan
 
